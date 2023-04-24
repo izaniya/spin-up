@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.vexrobotics.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Vex-Logo.jpg" alt="Markdownify" width="200"></a>
+  <a href="https://www.vexrobotics.com/"><img src="https://www.rvarobotics.org/wp-content/uploads/2016/11/VEX-Solo.png" alt="Vex" width="200"></a>
   <br>
   Vex Robotics
   <br>
