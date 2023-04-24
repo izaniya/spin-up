@@ -32,7 +32,7 @@ You can [download](https://www.vexrobotics.com/vexcode/install/v5) the latest in
 
 ## Credits
 
-This software uses the following open source packages:
+Partner on this project:
 
 - [Anvay Patil](https://github.com/)
 
