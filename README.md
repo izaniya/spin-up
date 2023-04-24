@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#details">Details</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> ••
+  <a href="#credits">Credits</a>
 </p>
 
 ## Details
