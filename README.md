@@ -10,12 +10,9 @@
 <h4 align="center">Code for the 2022-23 Vex Robotics game, <a href="https://www.youtube.com/watch?v=wIZgvVDZc2Y" target="_blank">Spin Up</a>.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#details">Details</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#credits">Credits</a> ••
 </p>
 
 ## Details
