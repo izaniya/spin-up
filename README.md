@@ -34,7 +34,7 @@ You can [download](https://www.vexrobotics.com/vexcode/install/v5) the latest in
 
 Partner on this project:
 
-- [Anvay Patil](https://github.com/)
+- [Anvay Patil](https://github.com/Anvay-P)
 
 > GitHub [@izaniya](https://github.com/izaniya) &nbsp;&middot;&nbsp;
 > Twitter [@ivanmhoang](https://twitter.com/ivanmhoang)
